@@ -14,8 +14,12 @@ em {
     color: black;
 }
 
-form {
-    border-style: solid 2px black;
+.form-example {
+    
+    background-color: blanchedalmond;
+    border-radius: 3px;
+    padding: 10px;
+
 }
 
 #wrapper {
