@@ -1,0 +1,24 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    color: darkgoldenrod;
+}
+
+p {
+    color: darkred;
+} 
+
+em {
+    color: black;
+}
+
+form {
+    border-style: solid 2px black;
+}
+
+#wrapper {
+    margin: auto;
+    width: 50%;
+}
