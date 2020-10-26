@@ -22,3 +22,7 @@ form {
     margin: auto;
     width: 50%;
 }
+
+.nav a:link {
+    text-decoration: none;
+}
